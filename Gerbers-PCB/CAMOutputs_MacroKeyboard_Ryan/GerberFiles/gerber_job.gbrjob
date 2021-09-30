@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-09-20T18:58:50Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "macrokeyboardV1.0"
+        },
+        "Owner": "Ryan Pacheco <r1pacheco@ryerson.ca>",
+        "Size": {
+            "X": 89,
+            "Y": 89.03365
+        }
+    }
+}

@@ -1,0 +1,14 @@
+-------------- THINGS TO KEEP A MENTAL NOTE OF ------------------
+
+- each MX-Switch has a jumper if diodes are not required (single input presses, diode's necessary for multi-press)
+
+- one rotary encoder can be used as a switch for controlling the different macro layouts wanting to implement
+
+- capacitors are added for each LED (must be close beside it), but may not be required based on burn-out
+
+- there are jumpers that can be connected to 3.3V or 5V for a LCD/OLED screen if wanted to add later (I2C). 
+  headers are implemented to support this feature in the future.
+
+- a future revision can look into adding a USB-C hub for connecting multiple devices into the back.
+
+- in code, have a spotify hotkey to skip songs, pause, turn up volume, etc.
